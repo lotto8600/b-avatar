@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"animate_light","_duration":4,"wrapMode":"2","curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1,"y":1}},{"frame":2,"value":{"__type__":"cc.Vec2","x":2,"y":2}},{"frame":4,"value":{"__type__":"cc.Vec2","x":1,"y":1}}],"opacity":[{"frame":0,"value":100},{"frame":2,"value":255},{"frame":4,"value":100}]}}}

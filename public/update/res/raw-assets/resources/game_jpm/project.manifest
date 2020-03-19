@@ -1,0 +1,126 @@
+{
+ "version": "0.0.9",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_jpm/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_jpm/version.manifest",
+ "searchPaths": [],
+ "assets": {
+  "res/raw-assets/e2/e2507223-f564-418b-8ef8-62594153bb14.png": {
+   "md5": "732f34d103e3a8a3aa5d6e466befff62",
+   "size": 1729544
+  },
+  "res/raw-assets/c2/c2faf70c-2df4-40fa-9f03-5e724a79ec74.png": {
+   "md5": "59085495527f944cc0cccbdd45e5b2c4",
+   "size": 69252
+  },
+  "res/raw-assets/7c/7cc7eb86-2334-4bd6-bdd6-f4cc6ca65697.png": {
+   "md5": "02be4705e70352010482b1b54deb6022",
+   "size": 19765
+  },
+  "res/raw-assets/5f/5f1556e5-014a-405d-909c-d9a7f6daf95e.png": {
+   "md5": "9075d56c0242d4895ac4c749fb082f64",
+   "size": 623512
+  },
+  "res/raw-assets/63/636dfcac-28d9-42fe-a45e-c90847fe4822.png": {
+   "md5": "d9336376c23a0aafff857df02957442b",
+   "size": 794435
+  },
+  "res/raw-assets/5e/5e1cd1f8-ef6b-43ac-a007-359d0428ff19.png": {
+   "md5": "4e43fefd98ba62974f6db43439324187",
+   "size": 400047
+  },
+  "res/raw-assets/c0/c0a2611a-f1d5-4e32-9a0c-eabe6d9150f0.png": {
+   "md5": "6a49519ee254de1b597de6325d42560c",
+   "size": 14889
+  },
+  "res/raw-assets/12/1236674c-7d27-456d-a11f-426eef8d93e2.png": {
+   "md5": "d7b47b60735bac0e49f377e8bdca8dbc",
+   "size": 220510
+  },
+  "res/raw-assets/5c/5ca488a0-7626-4760-af3d-d7cfb5b618fb.png": {
+   "md5": "a4476179e63659ef35cf51367fffb1f1",
+   "size": 112141
+  },
+  "res/raw-assets/f9/f950bfa0-56e9-40c8-8d28-5b843e46659b.png": {
+   "md5": "604ba1f08fae4f621c0e82879f041673",
+   "size": 108787
+  },
+  "res/raw-assets/77/770a4e5b-8e12-4124-b23e-2735ef96b959.png": {
+   "md5": "47675a00767337d5210190cc6cdf1071",
+   "size": 113696
+  },
+  "res/raw-assets/ba/baf36a96-886d-4436-97c4-732191ef8c37.png": {
+   "md5": "47675a00767337d5210190cc6cdf1071",
+   "size": 113696
+  },
+  "res/raw-assets/88/88bcb455-c417-4f37-9a93-458937ca3069.png": {
+   "md5": "47675a00767337d5210190cc6cdf1071",
+   "size": 113696
+  },
+  "res/raw-assets/5f/5f0a82cf-e9d9-4799-94c7-9dbe850e912c.png": {
+   "md5": "dbd05c86beac6611b5f08564edbbce92",
+   "size": 155200
+  },
+  "res/raw-assets/21/2162ca4e-6f2e-48b9-8c71-e12bacd75bfa.png": {
+   "md5": "2ab2414bf468e9b363da0e0d251a3926",
+   "size": 70574
+  },
+  "res/raw-assets/33/331f2a72-c2e7-48c8-9b44-06048cbd5cfb.png": {
+   "md5": "76abf8b5830c0483e6a690ec87d4f6fd",
+   "size": 15494
+  },
+  "res/raw-assets/ff/ffd8e93f-5486-4102-8eb6-bd4b8d229c1f.mp3": {
+   "md5": "b36dd578c83c117a987d41cd4494de30",
+   "size": 969600
+  },
+  "res/raw-assets/2d/2dc57175-b08a-4671-938c-235769256ca8.mp3": {
+   "md5": "ab1329cd8b121d1b483535febd945ebb",
+   "size": 46437
+  },
+  "res/raw-assets/aa/aa94a6e7-2a15-47c8-ba07-8bb2876a05ba.mp3": {
+   "md5": "307126962293a5dcfccb194b1fc4059f",
+   "size": 53836
+  },
+  "res/raw-assets/fd/fd964a8e-05c1-4f5f-ba78-9fee39ea4abb.mp3": {
+   "md5": "ef03b9a96d7f8cf55f59d7c8c45be7ab",
+   "size": 20663
+  },
+  "res/raw-assets/99/991e9876-5fe4-437d-8b39-55ff218a33e6.mp3": {
+   "md5": "1fb3cdf6d619be423ef63bb145cfdd02",
+   "size": 56683
+  },
+  "res/raw-assets/1f/1ff4e9b0-6dfb-4146-bbf6-05e597df9a0d.mp3": {
+   "md5": "176dff3b364fe170c1b6b32a0e3914ba",
+   "size": 9207
+  },
+  "res/raw-assets/fd/fd24187c-4a8b-46d5-9065-9fd01a3b119a.mp3": {
+   "md5": "b4dfa7cd0962f56a9db5bb00377b1881",
+   "size": 3761
+  },
+  "res/raw-assets/b4/b4e6dae7-73e9-43b7-91d8-ee648e5ddf1c.mp3": {
+   "md5": "9ca51d6ff8e86dc7acc7bdca41b41165",
+   "size": 69141
+  },
+  "res/raw-assets/f9/f99b6fb9-ba56-49f2-a6c3-0ac4e7c0785f.mp3": {
+   "md5": "9a8c96bf44ee0e99a94c79fcd68cb582",
+   "size": 12019
+  },
+  "res/raw-assets/1f/1f51a7b5-2597-45d4-a7ab-b566cc424f2b.mp3": {
+   "md5": "2f77f5254d65e7f20f111e68d18ccbd8",
+   "size": 51135
+  },
+  "res/raw-assets/c2/c2912861-f124-42af-a4f9-465086f32593.mp3": {
+   "md5": "7944b3f28feaab2d4169836a3303738c",
+   "size": 51391
+  },
+  "res/raw-assets/b6/b630b6da-f35d-4a7f-a1bb-22754639269a.png": {
+   "md5": "a4437ae55f576af7f0f8f336cd400fd0",
+   "size": 640378
+  },
+  "res/raw-assets/51/51493f6a-46e6-4654-b673-05ab950336f7.png": {
+   "md5": "369096906a1619f4ec31229a6c454b56",
+   "size": 628056
+  }
+ },
+ "sizeTotal": 7287545
+}

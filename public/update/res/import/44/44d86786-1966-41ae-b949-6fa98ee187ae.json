@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"count_down","_duration":0.25,"curveData":{"props":{"angle":[{"frame":0,"value":0},{"frame":0.05,"value":12},{"frame":0.13333333333333333,"value":-9},{"frame":0.2,"value":6},{"frame":0.25,"value":0}]}}}

@@ -1,0 +1,7 @@
+{
+ "version": "0.0.9",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_jpm/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_jpm/version.manifest",
+ "sizeTotal": 7287545
+}

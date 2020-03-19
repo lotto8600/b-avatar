@@ -1,0 +1,78 @@
+{
+ "version": "0.0.10",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_bsly/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_bsly/version.manifest",
+ "searchPaths": [],
+ "assets": {
+  "res/raw-assets/03/03044e05-5cbe-46f2-ba58-e79bd37986e2.png": {
+   "md5": "75d9021296f2b2262c05e5f2f9ab0b43",
+   "size": 2061147
+  },
+  "res/raw-assets/3f/3f662f5a-01d0-401a-a178-368320f9e2f2.png": {
+   "md5": "21a7f282696a1e6150bfcf9468290042",
+   "size": 23162
+  },
+  "res/raw-assets/fc/fc220933-9f00-40d4-9e16-3d966eea83c1.png": {
+   "md5": "2224863a334cf0a6ffc3c34f98eb1403",
+   "size": 119147
+  },
+  "res/raw-assets/b4/b4536ec7-4f7d-49c1-ba44-94033ff9a29b.png": {
+   "md5": "c5e315eed017c4e6c707141d136f5aff",
+   "size": 125680
+  },
+  "res/raw-assets/c9/c9129b4e-8f5f-468a-828a-e78b939931ca.png": {
+   "md5": "b5243aed911e0bad9c06c1b923ed5dbf",
+   "size": 112562
+  },
+  "res/raw-assets/99/996a3cf6-4376-43a8-b469-3023054eb8c8.png": {
+   "md5": "157665e0fee22a364c76ef9bcc473333",
+   "size": 116960
+  },
+  "res/raw-assets/66/660fa9a5-78b8-46ca-a07c-7a1620b8214b.png": {
+   "md5": "157665e0fee22a364c76ef9bcc473333",
+   "size": 116960
+  },
+  "res/raw-assets/2c/2cc11d8e-7b9e-43ad-bbb1-27d8147ebad4.mp3": {
+   "md5": "3b2f7301e3e9fc0777876e4ef51277a8",
+   "size": 213876
+  },
+  "res/raw-assets/d8/d88a945d-efef-4cac-ab44-a0ae73d521ed.mp3": {
+   "md5": "3b2f7301e3e9fc0777876e4ef51277a8",
+   "size": 213876
+  },
+  "res/raw-assets/05/05f9b812-be61-42f8-95a5-d65a28e5ef23.mp3": {
+   "md5": "43761416d912e3c16650852d4a986046",
+   "size": 935437
+  },
+  "res/raw-assets/fa/fab0f1b5-cfb2-4bde-8753-01a57694d64b.mp3": {
+   "md5": "2e9d85dacf0be3ef709fea8a2836e27e",
+   "size": 7096
+  },
+  "res/raw-assets/fe/fe2d9b13-6a0b-4de5-aa12-0dbd05d12200.mp3": {
+   "md5": "6278c88988d02ba0cb201324ede21cb2",
+   "size": 12934
+  },
+  "res/raw-assets/b9/b9c450e3-f2ae-4652-9d73-f6a96b3c6721.mp3": {
+   "md5": "987fc547fc3bad878f5d0c46ee07bf7b",
+   "size": 13061
+  },
+  "res/raw-assets/35/358cb3b8-ccce-49e9-92f9-362c34acccb4.mp3": {
+   "md5": "7d1d0b1687fb5b37ae156b6aaba0515e",
+   "size": 12934
+  },
+  "res/raw-assets/21/21796636-9f5d-4022-8318-b953776ad961.png": {
+   "md5": "83b95ec31c3af98614b2749ce2d1efc6",
+   "size": 600819
+  },
+  "res/raw-assets/e5/e5acaa4f-92d6-4446-ade5-5117dbf28813.png": {
+   "md5": "396647788f5b992c065e89e8c4def776",
+   "size": 618239
+  },
+  "res/raw-assets/03/03aad895-a6b9-4435-b2af-6f8e2f1320ec.png": {
+   "md5": "4d2a0e1d1e93c931385fea159d6561bc",
+   "size": 1004
+  }
+ },
+ "sizeTotal": 5304894
+}

@@ -1,0 +1,50 @@
+{
+ "version": "0.0.3",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_jsxn/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_jsxn/version.manifest",
+ "searchPaths": [],
+ "assets": {
+  "res/raw-assets/40/4047f090-ec6e-43de-8c13-52e609a3ae12.png": {
+   "md5": "673d9d624b6591e3dd93554060bf720a",
+   "size": 275656
+  },
+  "res/raw-assets/c3/c3318b5c-15ee-4b7d-b59f-94420dd2f9a5.png": {
+   "md5": "1ca72c070eb3fc00841d5de215f634bd",
+   "size": 67684
+  },
+  "res/raw-assets/7c/7c5e0319-6a3b-4203-9bfb-54f7aab3069d.png": {
+   "md5": "d1972f4f02ecf71c318bfb0e9e96f893",
+   "size": 109980
+  },
+  "res/raw-assets/61/61b16fc2-bf3c-4b06-aadc-df8926cde25b.png": {
+   "md5": "a4476179e63659ef35cf51367fffb1f1",
+   "size": 112141
+  },
+  "res/raw-assets/82/8260f25e-3e14-43a2-8536-31cefddde059.png": {
+   "md5": "604ba1f08fae4f621c0e82879f041673",
+   "size": 108787
+  },
+  "res/raw-assets/19/191c211e-da9a-428c-aca8-06e0c90ac741.png": {
+   "md5": "47675a00767337d5210190cc6cdf1071",
+   "size": 113696
+  },
+  "res/raw-assets/73/7319bea9-9d14-4e0e-a65f-3f6e598ba700.png": {
+   "md5": "47675a00767337d5210190cc6cdf1071",
+   "size": 113696
+  },
+  "res/raw-assets/47/4756ee4e-cbbd-4ca7-a426-2f4d6b32bf9f.png": {
+   "md5": "47675a00767337d5210190cc6cdf1071",
+   "size": 113696
+  },
+  "res/raw-assets/be/be8fabcf-c1f1-4ce0-bd25-cd4690c0b237.png": {
+   "md5": "3aeca0cf721da7cf2c7ed3b4e7b0a972",
+   "size": 517775
+  },
+  "res/raw-assets/54/54922ad5-6c1e-4cf0-9abd-137fd581c0ca.png": {
+   "md5": "e26f0d00b2e5a4e84ed5149e51736a05",
+   "size": 126405
+  }
+ },
+ "sizeTotal": 1659516
+}

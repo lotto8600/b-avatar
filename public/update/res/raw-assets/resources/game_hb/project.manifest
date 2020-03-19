@@ -1,0 +1,178 @@
+{
+ "version": "0.0.10",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_hb/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_hb/version.manifest",
+ "searchPaths": [],
+ "assets": {
+  "res/raw-assets/7a/7acac25b-7ea4-416a-b0a2-c33f7fb78eec.png": {
+   "md5": "0f590f7e426fa8dd382f697f08b78ec2",
+   "size": 844943
+  },
+  "res/raw-assets/43/43cf6f94-4308-42c1-a690-5e3064275fee.png": {
+   "md5": "ba89c5baa64d294238f0a4ed6e85fee3",
+   "size": 783996
+  },
+  "res/raw-assets/23/23492504-8c99-456b-bc2a-d7d0f9907cc8.png": {
+   "md5": "66a7a0732787769d34fc62e2d4c18954",
+   "size": 155819
+  },
+  "res/raw-assets/49/49933d88-544b-4fce-9384-be854a2c8702.png": {
+   "md5": "8bd471a6f53faeadf8d2351fa01cd6a1",
+   "size": 9298
+  },
+  "res/raw-assets/00/004a6c0a-70cd-4ba6-8ae7-248792ae53b8.png": {
+   "md5": "bdb138459f886fdbb1cd489f7f7a4838",
+   "size": 11344
+  },
+  "res/raw-assets/7c/7c7ce95e-da48-4126-bdcb-cf012561abdb.png": {
+   "md5": "ac97b6d6c29ed3f1460fe33fca92cf8b",
+   "size": 11574
+  },
+  "res/raw-assets/eb/eb5a7727-745f-4675-bb0d-cea8237e7bc6.png": {
+   "md5": "a9e7d5458fca53aabff57b5b929a7b82",
+   "size": 11191
+  },
+  "res/raw-assets/65/651a337b-4655-402c-a4fc-cab1b4107e0e.png": {
+   "md5": "da798e27af15ba7e27e9f14940a73b74",
+   "size": 9478
+  },
+  "res/raw-assets/6d/6d062507-a848-405f-9c45-8251415f2ab8.png": {
+   "md5": "a94a8383b7316f71089e18a66e25e3ca",
+   "size": 474792
+  },
+  "res/raw-assets/d8/d889707b-c6c7-4f18-9cec-5d013e5df961.png": {
+   "md5": "c228f4b691d771279747dfdba98fe003",
+   "size": 3067
+  },
+  "res/raw-assets/7f/7f1bc74c-4240-436d-8930-b5bef656e64c.png": {
+   "md5": "3efba4ec2acc3a61fe759e2f7abd3884",
+   "size": 51491
+  },
+  "res/raw-assets/3d/3dfc73ae-875a-4c2c-b6c3-ac5906a2b78e.png": {
+   "md5": "1c3264b4a87ebd38d95c50a2b2e3ca25",
+   "size": 56720
+  },
+  "res/raw-assets/f4/f4f3adf0-008a-4773-a435-9c59ed8a8c25.png": {
+   "md5": "a5a9107a94ff51002dfbfa2eae1d5860",
+   "size": 191142
+  },
+  "res/raw-assets/9d/9da8c6c9-9b2b-4bfa-b011-043e12e6049a.png": {
+   "md5": "1d737b1d0f365c589e93bc915da31b84",
+   "size": 21243
+  },
+  "res/raw-assets/d1/d190ae04-01c2-4b35-b98f-91a5a02e64a3.png": {
+   "md5": "18abf101e763c3b2b606f8f18c9c1437",
+   "size": 19876
+  },
+  "res/raw-assets/b5/b5c567ab-15b6-463d-aadd-b68c341d8d81.png": {
+   "md5": "eb6cd7c180caa956783772134a0d29b9",
+   "size": 714178
+  },
+  "res/raw-assets/f6/f646179b-b3a6-46b3-a9ea-34a9bc4f7457.png": {
+   "md5": "eedc12fd1e4ef2674417e2133e8ef484",
+   "size": 1544842
+  },
+  "res/raw-assets/0b/0bf36818-c7eb-4514-bb76-22b30f9bc733.png": {
+   "md5": "f335efb89fa01092717f123e20f0a895",
+   "size": 585102
+  },
+  "res/raw-assets/b6/b6f9577b-ef36-4ab1-b6c7-021f0daa1b34.png": {
+   "md5": "a09167945befe10d11ba905f06d71252",
+   "size": 427490
+  },
+  "res/raw-assets/b9/b904dfcf-f711-4b0b-a140-b70c4c2ce5e5.png": {
+   "md5": "c36e62598cb689456f3bcfae20ead7c3",
+   "size": 54221
+  },
+  "res/raw-assets/e8/e8810b96-46c3-4d60-a4a0-a790fb52b562.png": {
+   "md5": "0b907e817653094bff2928765e322878",
+   "size": 305123
+  },
+  "res/raw-assets/38/38ca6492-6ca9-49ec-8c9e-23460b26462b.png": {
+   "md5": "5a02dd030bfdda156329b6cdc46ecd13",
+   "size": 184534
+  },
+  "res/raw-assets/ac/acb4c47b-88cf-43c3-a247-7e00781ddfd3.png": {
+   "md5": "fffb5f1e30354ef4fa180a4dd14f3fff",
+   "size": 61788
+  },
+  "res/raw-assets/b0/b016ad6d-347e-4022-986d-489e8afb3bc9.png": {
+   "md5": "6d72776f3b6807878840cc4462979930",
+   "size": 19954
+  },
+  "res/raw-assets/60/602fec88-5608-4fad-98fc-684daf60db64.png": {
+   "md5": "59fa24062034bb40c10c8dbe72f89e7f",
+   "size": 15056
+  },
+  "res/raw-assets/e0/e07e4cea-d0c8-4942-aaeb-bad48a0cc85f.png": {
+   "md5": "6ae95a41c20d3bf418dcf08590a72804",
+   "size": 41063
+  },
+  "res/raw-assets/8d/8dcfb0ad-216b-4da5-96f3-fba637d6c5f7.png": {
+   "md5": "d897df07d9f4d89ee137e9b809e4774d",
+   "size": 9428
+  },
+  "res/raw-assets/22/22e11292-215c-40bf-9c7e-4cd39013de3f.png": {
+   "md5": "4c2a0f1ae2fcad89648c5e948e17cc9d",
+   "size": 105879
+  },
+  "res/raw-assets/60/60868ce9-81e9-4ab3-9d54-1665f8fd8c2c.png": {
+   "md5": "829d7a1b5e02b83e79ce8de91d5ead6c",
+   "size": 109596
+  },
+  "res/raw-assets/21/21531b52-3ee3-49bd-92fc-62088d9f30bc.png": {
+   "md5": "b7572d558f956ba9a7760f649f857385",
+   "size": 111077
+  },
+  "res/raw-assets/5e/5e16000f-506a-4a13-a196-ee9145f5e646.mp3": {
+   "md5": "0cc1a822aa2514736e057c4851754313",
+   "size": 1094647
+  },
+  "res/raw-assets/b0/b079fdf4-7cb5-4a9f-a15f-4ac6a8b34d40.mp3": {
+   "md5": "89a3febe30e0ddf40b50a6fc4de6def7",
+   "size": 50973
+  },
+  "res/raw-assets/aa/aad51176-5efa-4ea9-820e-1e568a4bc2b4.mp3": {
+   "md5": "baa9f70818fb13b6078c1151c39883b2",
+   "size": 11994
+  },
+  "res/raw-assets/92/92cd643f-278c-4258-ae16-77eb7e0d7b5e.mp3": {
+   "md5": "65af0992dfcfedb499fb6e329a354b30",
+   "size": 15024
+  },
+  "res/raw-assets/0b/0bd71b7f-82d4-42f8-9ff8-161a16eda6b1.mp3": {
+   "md5": "736a4cc7a81255a6043305dd07265ccf",
+   "size": 25211
+  },
+  "res/raw-assets/41/4111307d-0720-44c3-8cb1-a42ab64e7c7c.mp3": {
+   "md5": "05fb95a1a353abd5ea121df8b1dd86a5",
+   "size": 99072
+  },
+  "res/raw-assets/81/81c73243-5929-44ca-bcba-0e4a3c34543d.png": {
+   "md5": "1bc034189cfaef3791a2136bf95c30e4",
+   "size": 752977
+  },
+  "res/raw-assets/2b/2b29940d-e304-49ac-8db9-1f4cdd1ba0f0.png": {
+   "md5": "bed3c360f097d09db82aa7b0bd692bb7",
+   "size": 94064
+  },
+  "res/raw-assets/30/30d594e4-fd63-4427-bc56-f48bb69dfca9.png": {
+   "md5": "2c822ac18113e416c1d2d79e91101cc0",
+   "size": 143208
+  },
+  "res/raw-assets/cc/cc614fa8-3ae7-4f5f-a692-95140fd60dff.png": {
+   "md5": "b29d2e12766b333a04d21171d6d217fa",
+   "size": 91356
+  },
+  "res/raw-assets/1c/1ce6e687-7363-47d9-b5a9-3e2d0d9619f1.png": {
+   "md5": "2e38a8ea1615852cf334073cebb835aa",
+   "size": 32834
+  },
+  "res/raw-assets/8d/8db5339e-110f-4799-a6f8-75e06afc3850.png": {
+   "md5": "7bf455f036e17494f499bd7746a11e9b",
+   "size": 3036367
+  }
+ },
+ "sizeTotal": 12393032
+}

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"result_win","_duration":3,"wrapMode":2,"curveData":{"comps":{"cc.Sprite":{}},"props":{"angle":[{"frame":0,"value":0},{"frame":1.5,"value":-180},{"frame":3,"value":-360}]}}}

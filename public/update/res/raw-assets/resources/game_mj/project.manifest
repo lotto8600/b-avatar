@@ -1,0 +1,26 @@
+{
+ "version": "0.0.5",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_mj/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_mj/version.manifest",
+ "searchPaths": [],
+ "assets": {
+  "res/raw-assets/37/37b27618-de27-48c5-9bb6-ca46cbb658b3.png": {
+   "md5": "0956aa3c8c83fb2f28c852873633a51e",
+   "size": 615833
+  },
+  "res/raw-assets/d3/d390a78d-0c30-4a07-9494-cb3af3d81f73.png": {
+   "md5": "41abc0d14ad283f642f32f0003b0c4ab",
+   "size": 18598
+  },
+  "res/raw-assets/34/3468b67d-2bea-4560-85f0-35f51f450822.png": {
+   "md5": "ae2e423f8de53ee8584772af359c596e",
+   "size": 16509
+  },
+  "res/raw-assets/4f/4fe8e1b7-db9b-4552-801c-2d63da373fc1.png": {
+   "md5": "83dfd568307dedb48c7e5d4d14e300fe",
+   "size": 21099
+  }
+ },
+ "sizeTotal": 672039
+}

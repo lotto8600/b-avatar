@@ -1,0 +1,1 @@
+[{"__type__":"cc.Prefab","_name":"create_extension_v","data":{"__id__":1}},{"__type__":"cc.Node","_name":"other","_components":[{"__type__":"9c0dc128JhJBp5SxgQD7Dj+","node":{"__id__":1}}],"_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__uuid__":"dcAfkoOshKA6aS5H24o4JB"},"fileId":"dfnkdqaYlDU5SlplZRlkyy"},"_scale":{"__type__":"cc.Vec3","x":1,"y":1,"z":1}}]

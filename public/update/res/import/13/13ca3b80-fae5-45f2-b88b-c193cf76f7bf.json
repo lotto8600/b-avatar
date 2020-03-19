@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"ani","_duration":1.0833333333333333,"curveData":{},"events":[{"frame":0,"func":"engineStart","params":[]},{"frame":0.08333333333333333,"func":"accelerator","params":[]},{"frame":1.0833333333333333,"func":"accelerator","params":[]}]}

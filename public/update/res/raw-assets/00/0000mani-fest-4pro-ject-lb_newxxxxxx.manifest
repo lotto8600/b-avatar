@@ -1,0 +1,62 @@
+{
+ "version": "0.0.2",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_lb_new/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_lb_new/version.manifest",
+ "searchPaths": [],
+ "assets": {
+  "res/raw-assets/5e/5ecc771e-85e9-4030-92d5-c880df23e8f0.png": {
+   "md5": "cd154f6fea9b90113d743643b81ee09a",
+   "size": 2357
+  },
+  "res/raw-assets/d5/d5144656-f2c9-414d-a7cc-3f920be2ec1a.png": {
+   "md5": "a8036d7534d42846affeffee950d448d",
+   "size": 20914
+  },
+  "res/raw-assets/ee/ee3e138e-eefb-4c0e-a765-b8b027bd3c26.png": {
+   "md5": "ea255f8f92cab9b6e235e84b25b0eab3",
+   "size": 18660
+  },
+  "res/raw-assets/cb/cb8a4dbc-765d-4374-a534-ba7c8e4aab0f.png": {
+   "md5": "e0d487e4b91dfa80534577e75816e927",
+   "size": 141551
+  },
+  "res/raw-assets/cd/cd771f26-e68c-48e5-b1c5-df33d145136b.png": {
+   "md5": "163808a46b71ec3bcda83269c35b08ef",
+   "size": 634
+  },
+  "res/raw-assets/a0/a02883cf-3313-405a-b68d-fda7135cb7f7.png": {
+   "md5": "8291a680dc0f3bc1826d9e1eb67dc8d5",
+   "size": 7093
+  },
+  "res/raw-assets/82/820ddf53-ca6e-421b-906a-07ed1acf3219.png": {
+   "md5": "0c9351896c94bf74788d7dd54d75a533",
+   "size": 20020
+  },
+  "res/raw-assets/52/52fde326-a9f6-4aa0-bbe3-5094a8d5487a.png": {
+   "md5": "8e0fbc9776c31a83a0a9829297560196",
+   "size": 6170
+  },
+  "res/raw-assets/7d/7d7c60d1-b54c-4aed-961e-218e1b462483.png": {
+   "md5": "28d7cb390f6ed988af3843edbdfe2a85",
+   "size": 23004
+  },
+  "res/raw-assets/ae/ae7c1054-d62d-4bb0-82e6-6e333b026fcd.png": {
+   "md5": "730ea5dd18a3f4b765d7a9bc3800f1be",
+   "size": 4882
+  },
+  "res/raw-assets/7f/7f5b4bd6-b240-44e5-a53d-ae9f070df379.png": {
+   "md5": "79d4976322f1872c96e1447601065ead",
+   "size": 41450
+  },
+  "res/raw-assets/b2/b28c6bb1-e97b-46e2-97d9-dcc39c9a55ab.png": {
+   "md5": "5188f5340c74ceaa4cff00fc8c8c81a7",
+   "size": 1419
+  },
+  "res/raw-assets/63/63093a6d-9f5d-4c92-ade2-e351c35a5fcd.png": {
+   "md5": "9f763257625794b44acb46f8b067eaae",
+   "size": 242980
+  }
+ },
+ "sizeTotal": 531134
+}

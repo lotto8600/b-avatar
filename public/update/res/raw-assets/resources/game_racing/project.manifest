@@ -1,0 +1,138 @@
+{
+ "version": "0.0.17",
+ "packageUrl": "http://update.le1998.com/public/update/",
+ "remoteManifestUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_racing/project.manifest",
+ "remoteVersionUrl": "http://update.le1998.com/public/update/res/raw-assets/resources/game_racing/version.manifest",
+ "searchPaths": [],
+ "assets": {
+  "res/raw-assets/e9/e9660644-31eb-40c7-a3db-a999b6a8528b.png": {
+   "md5": "ee493c1f52da65da518c2ceb77d649cd",
+   "size": 513394
+  },
+  "res/raw-assets/68/68475ba8-ab52-4fa0-a6a6-22902d165250.png": {
+   "md5": "2e1d89130856bf76a1814f4c43751c15",
+   "size": 60650
+  },
+  "res/raw-assets/91/91f65895-4193-426a-80a7-0f738d22fa1a.png": {
+   "md5": "06a61c7e1bf6bd136419f8ed6597c1ee",
+   "size": 1087
+  },
+  "res/raw-assets/64/6493affc-4616-4393-8bba-4248731f5a01.png": {
+   "md5": "ee7a0cbf27ef81aa24f6fc0c0d4c9933",
+   "size": 272979
+  },
+  "res/raw-assets/9b/9bc00d8c-a526-40c3-9c0c-21a28883dfaa.png": {
+   "md5": "e1fbca792461b13a4cca8415094c3deb",
+   "size": 15822
+  },
+  "res/raw-assets/a1/a1b7cdf0-6ee2-4975-92b1-d9694adab639.png": {
+   "md5": "21c8bb162ba00c2a5c6cfd0e123bc174",
+   "size": 7562
+  },
+  "res/raw-assets/e9/e91d557a-2156-4f9d-b2f5-b78aa5175680.png": {
+   "md5": "fc5b830dc5b1e7376e13d11235a6aec2",
+   "size": 10576
+  },
+  "res/raw-assets/db/db2139d5-6176-4bef-85e6-6fb1c9d0c9fe.png": {
+   "md5": "515037107179691fc93b7b008e40befb",
+   "size": 187503
+  },
+  "res/raw-assets/dd/dd9c96b5-b8fc-43d1-ad1a-ea24bb7a9368.png": {
+   "md5": "ebdc36e87813740ddbcc461a3b90828e",
+   "size": 73415
+  },
+  "res/raw-assets/9e/9e9b2d29-bfa9-4889-820b-159d9396412d.png": {
+   "md5": "8e65a4abda161c2efe3f5f98778f1d2f",
+   "size": 465070
+  },
+  "res/raw-assets/1d/1d26cf18-f67d-4d67-a74c-1128f1a0c933.png": {
+   "md5": "925348a2f9cb4205b8fb073524bbf452",
+   "size": 30286
+  },
+  "res/raw-assets/90/90d4b864-fa59-40d9-a5e2-64bf8a9dff77.png": {
+   "md5": "9865c2ff8092f89a3852fe1b746aa602",
+   "size": 12872
+  },
+  "res/raw-assets/04/045e93a5-41fa-4dfc-9345-2eaddface639.png": {
+   "md5": "a1ba5d63fc7514c36621d9b235486954",
+   "size": 6755
+  },
+  "res/raw-assets/a9/a9137c9b-2f08-4036-9be6-100f051f1539.png": {
+   "md5": "eff166596ef522289b8c0f0c6885979f",
+   "size": 6973
+  },
+  "res/raw-assets/64/6474fbc0-5532-4c65-a46a-d85bc1b6781b.png": {
+   "md5": "7672691a891391bb95b3a042a4848947",
+   "size": 148786
+  },
+  "res/raw-assets/f8/f8598d4a-769a-4261-ab72-b186ffd2d3df.png": {
+   "md5": "6a89cff82a6915983741f9774b60df90",
+   "size": 159926
+  },
+  "res/raw-assets/ce/cefe1d95-5419-449e-8ce5-c07a743ca213.png": {
+   "md5": "2c56a513f2ea8c8fa83d55bb63673ecd",
+   "size": 134920
+  },
+  "res/raw-assets/79/79474822-71ed-478a-97f1-44c5d23c1bf8.png": {
+   "md5": "8dedbd99f3eff6863371ab26babb1e7c",
+   "size": 150212
+  },
+  "res/raw-assets/51/510d10dc-7b00-4a3b-ac1e-73388866c91d.png": {
+   "md5": "8dedbd99f3eff6863371ab26babb1e7c",
+   "size": 150212
+  },
+  "res/raw-assets/fd/fdd8843e-25ca-49ba-a308-0d7186146f60.png": {
+   "md5": "9e7ee959d857d2ef4e4e94e7f9b4b8df",
+   "size": 29837
+  },
+  "res/raw-assets/47/47055115-16e8-45ce-a2c5-f4b692e9865f.mp3": {
+   "md5": "de48e7abb1cfc447f5c222c0500ac82b",
+   "size": 13497
+  },
+  "res/raw-assets/b8/b8ccd27b-72ba-41b6-8825-b1735a1cb721.mp3": {
+   "md5": "5343361f648cb618f07956f61baa213e",
+   "size": 13288
+  },
+  "res/raw-assets/eb/eb79a20e-b089-4161-8d01-ce87ac26d5f4.mp3": {
+   "md5": "0a4d5010977dc833bbbef58de7f5e851",
+   "size": 8795
+  },
+  "res/raw-assets/fe/fe41767e-a1ff-4cab-925f-a19972f6c5cf.mp3": {
+   "md5": "6813c6bcb7ef088fdd6d197804494fdf",
+   "size": 146665
+  },
+  "res/raw-assets/79/79ffb7a6-214b-4c67-842c-e6cf7eb02442.mp3": {
+   "md5": "3b2f7301e3e9fc0777876e4ef51277a8",
+   "size": 213876
+  },
+  "res/raw-assets/d0/d0e066e9-5487-49c8-bf86-eaf0c521a68d.mp3": {
+   "md5": "37e7b65e450a47068494b401d789fac5",
+   "size": 491274
+  },
+  "res/raw-assets/c2/c2f1612b-64f1-4c88-84e7-b79ad28da714.mp3": {
+   "md5": "95e69909332aa70fee3faba85cfc3a01",
+   "size": 5155
+  },
+  "res/raw-assets/24/2492d537-86c2-40f5-bf74-927702611081.mp3": {
+   "md5": "e2ec01c9bcced276aa0d3c14875f52ce",
+   "size": 76321
+  },
+  "res/raw-assets/a8/a8448e35-a256-4063-9b89-f0a092f8b594.mp3": {
+   "md5": "ab1329cd8b121d1b483535febd945ebb",
+   "size": 46437
+  },
+  "res/raw-assets/0c/0c22de98-46b7-4d9d-8dc9-ff53473692df.mp3": {
+   "md5": "3c90c26f2e0754da3bdd28097d5de7be",
+   "size": 9318
+  },
+  "res/raw-assets/37/37aed399-62f6-4dd4-85f5-c67f442ed869.mp3": {
+   "md5": "24831a57e97c0439229ade7563de2fc9",
+   "size": 12672
+  },
+  "res/raw-assets/2f/2f960504-7e39-4675-a04f-504b3050723c.png": {
+   "md5": "9ca7f2696f0a7cce4c3a430c81bf16fb",
+   "size": 751266
+  }
+ },
+ "sizeTotal": 4227401
+}

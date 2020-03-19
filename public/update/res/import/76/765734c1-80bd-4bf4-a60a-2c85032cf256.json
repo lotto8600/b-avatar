@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"bullet hole","_duration":2,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"c7amUY+DxM+5awqWn2Nhnn"}}]}},"props":{"opacity":[{"frame":1,"value":255},{"frame":2,"value":0}]}}}
